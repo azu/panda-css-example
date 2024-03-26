@@ -1,4 +1,8 @@
 {
+	"scripts": {
+		"prepare": "panda codegen",
+		"pan": "panda"
+	},
 	"devDependencies": {
 		"@pandacss/dev": "^0.36.1"
 	}
